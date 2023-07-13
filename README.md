@@ -11,10 +11,21 @@ You can click the Preview link to take a look at your changes.
 <p></p>
 I am an aspiring Junior Full Stack Developer<br>I enjoy learning new technologies<p>  
 
+## Sample of My Work
+
 My very first ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) program is **a Chess-Playing program.** Whatever was I thinking?<img src="https://user-images.githubusercontent.com/74038190/216658117-5a5c9ab7-7319-4ffa-9e64-79d6bf0fb8d1.gif" width="10%"/><br><br> See for yourself: ♜♞♝♛[KoolAIChess](https://github.com/DelroyGayle/KoolAIChess) ♚♝♞♜
 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
-## 🌐 Socials:
+[Rock Paper Scissors Lizard Spock Game](https://github.com/DelroyGayle/RockPaperScissorsLizardSpock)
+
+[TV Show DOM Project](https://github.com/DelroyGayle/tv-show-dom-project/)
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+[REST Countries API with color theme switcher](https://github.com/DelroyGayle/countries-react/)
+
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/delroy-gayle) 
 
 # 💻 Tech Stack:
@@ -25,6 +36,6 @@ My very first ![Python](https://img.shields.io/badge/python-3670A0?style=for-the
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DelroyGayle&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DelroyGayle&icon=0&color=12)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
