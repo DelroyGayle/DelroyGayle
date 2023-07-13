@@ -11,8 +11,7 @@ You can click the Preview link to take a look at your changes.
 <p></p>
 I am an aspiring Junior Full Stack Developer<br>I enjoy learning new technologies<p>  
 
-My very first ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) program is **a Chess-Playing program.** Whatever was I thinking?  
-See [KoolAIChess](https://github.com/DelroyGayle/KoolAIChess)
+My very first ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) program is **a Chess-Playing program.** Whatever was I thinking?<img src="https://user-images.githubusercontent.com/74038190/216658117-5a5c9ab7-7319-4ffa-9e64-79d6bf0fb8d1.gif" width="10%"/><br><br> See for yourself: ♜♞♝♛[KoolAIChess](https://github.com/DelroyGayle/KoolAIChess) ♚♝♞♜
 
 
 ## 🌐 Socials:
