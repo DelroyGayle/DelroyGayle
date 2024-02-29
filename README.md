@@ -19,15 +19,21 @@ My very first ![Python](https://img.shields.io/badge/python-3670A0?style=for-the
 
 My Django E-Commerce store [Biblia Posters](https://github.com/DelroyGayle/Biblia-Posters-PP5)
 
+<hr>
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
 [Rock Paper Scissors Lizard Spock Game](https://github.com/DelroyGayle/RockPaperScissorsLizardSpock)
 
 [TV Show DOM Project](https://github.com/DelroyGayle/tv-show-dom-project/)
 
+<hr>
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 [REST Countries API with color theme switcher](https://github.com/DelroyGayle/countries-react/)
+
+<hr>
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/delroy-gayle) 
